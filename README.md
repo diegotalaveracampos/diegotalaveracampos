@@ -46,7 +46,8 @@ Here are some of the tools and technologies I work with:
 
 Here are some projects I've worked on recently:
 
-- **[Unique Tic-Tac-Toe Game]**: A simple Tic-Tac-Toe game built with React, featuring both Player vs. Player and Player vs. AI modes. The AI comes with adjustable difficulty levels (easy, medium, hard). The game includes sound effects and a responsive UI. **[Play Tic-Tac-Toe on GitHub Pages](https://diegotalaveracampos.github.io/unique_tic-tac-toe_game)**
+- **Unique Tic-Tac-Toe Game**: A simple Tic-Tac-Toe game built with React, featuring both Player vs. Player and Player vs. AI modes. The AI comes with adjustable difficulty levels (easy, medium, hard). The game includes sound effects and a responsive UI. 
+**[Play Tic-Tac-Toe on GitHub Pages](https://diegotalaveracampos.github.io/unique_tic-tac-toe_game)**
 
 ### 💼 Currently Looking For
 

@@ -11,34 +11,32 @@ I'm passionate about technology and software development, and I enjoy tackling c
 Here are some of the tools and technologies I work with:
 
 - **Languages:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Microsoft C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+  ![Microsoft C#](https://img.shields.io/badge/-C%23-000000?logo=dotnet)
+  ![Microsoft Visual Basic .NET](https://img.shields.io/badge/-.NET%208.0-blueviolet?logo=dotnet)
+  
 
 - **Frameworks & Libraries:**  
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Vite]([https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white))
 
 - **Databases:**  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
+  ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 - **DevOps & Tools:**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-  ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 - **Design & Front-End:**  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)  
 
 - **Methodologies:**  
   ![Agile](https://img.shields.io/badge/Agile-121212?style=for-the-badge&logo=agile&logoColor=white)  
@@ -54,15 +52,14 @@ Here are some projects I've worked on recently:
 
 ### 💼 Currently Looking For
 
-I'm seeking a position as a **[your specialization, e.g., Backend Developer, Software Engineer]** at a dynamic company that values innovation and professional growth. I'd love to join a collaborative team where I can apply my skills and continue developing.
+I'm seeking a position as a **Software Engineer** at a dynamic company that values innovation and professional growth. I'd love to join a collaborative team where I can apply my skills and continue developing.
 
 ### 📬 How to Reach Me
 
 If you think I'd be a good fit for your team or project, feel free to reach out! I'm open to new opportunities and would love to discuss how I can contribute to your company.
 
-- 📧 **Email:** [YourEmail@domain.com]
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- 🐦 **Twitter:** [https://twitter.com/yourusername](https://twitter.com/yourusername)
+- 📧 **Email:** diegoxtalavera@gmail
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/diego-talavera-c](https://www.linkedin.com/in/diego-talavera-c)
 
 ---
 

@@ -46,9 +46,7 @@ Here are some of the tools and technologies I work with:
 
 Here are some projects I've worked on recently:
 
-- **[Project Name 1]**: A brief description of the project, technologies used, and the impact. [Link to repository or demo]
-- **[Project Name 2]**: A brief description of the project, technologies used, and the impact. [Link to repository or demo]
-- **[Project Name 3]**: A brief description of the project, technologies used, and the impact. [Link to repository or demo]
+- **[Unique Tic-Tac-Toe Game]**: A simple Tic-Tac-Toe game built with React, featuring both Player vs. Player and Player vs. AI modes. The AI comes with adjustable difficulty levels (easy, medium, hard). The game includes sound effects and a responsive UI. https://diegotalaveracampos.github.io/unique_tic-tac-toe_game/
 
 ### 💼 Currently Looking For
 

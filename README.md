@@ -42,12 +42,6 @@ Here are some of the tools and technologies I work with:
   ![Agile](https://img.shields.io/badge/Agile-121212?style=for-the-badge&logo=agile&logoColor=white)  
   ![Scrum](https://img.shields.io/badge/Scrum-555555?style=for-the-badge&logo=scrum&logoColor=white)
 
-### 📈 Recent Projects
-
-Here are some projects I've worked on recently:
-
-- **Unique Tic-Tac-Toe Game**: A simple Tic-Tac-Toe game built with React, featuring both Player vs. Player and Player vs. AI modes. The AI comes with adjustable difficulty levels (easy, medium, hard). The game includes sound effects and a responsive UI. 
-**[Play Tic-Tac-Toe on GitHub Pages](https://diegotalaveracampos.github.io/unique_tic-tac-toe_game)**
 
 ### 💼 Currently Looking For
 

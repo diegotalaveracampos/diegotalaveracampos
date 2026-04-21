@@ -52,7 +52,7 @@ I'm seeking a position as a **Software Engineer** at a dynamic company that valu
 If you think I'd be a good fit for your team or project, feel free to reach out! I'm open to new opportunities and would love to discuss how I can contribute to your company.
 
 - 📧 **Email:** diegoxtalavera@gmail
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/diego-talavera-c](https://www.linkedin.com/in/diego-talavera-c)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/d-talavera/](https://www.linkedin.com/in/d-talavera/)
 
 ---
 
